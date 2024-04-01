@@ -3,7 +3,7 @@
 body
 {
     text-align: center;
-    background-color: linear-gradient(0deg,rgb(228, 168, 5),rgb(235, 232, 66));
+    background: -moz-linear-gradient(0deg,rgb(228, 168, 5),rgb(235, 232, 66));
     color: black;
     font-size: 30pt;
     font-family:  Georgia;
