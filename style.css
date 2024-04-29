@@ -1,7 +1,6 @@
 @charset "UTF-8";
 
-body
-{
+body{
     text-align: center;
     background: linear-gradient(0deg,rgb(228, 168, 5),rgb(235, 232, 66));
     color: black;
@@ -9,39 +8,52 @@ body
     font-family:  Georgia;
 }
 
-h2
-{
+h2{
     color: black;
     font-size: 30pt;
     font-family: Cambria;
 }
 
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+
 img{
     justify-content: center;
 }
- a{
+
+a{
     text-decoration: none;
     color:rgb(12, 19, 96);
     font-size: 18pt;
     font-family: Cambria;
- }
-
-#par{
-    text-color:blue;
-    font-size: 20pt;
-    font-family: Verdana;
 }
 
+li{
+    font-size: 30px;
+    text-align: justify;
+}
 
+.par{
+    color: blue;
+    font-size: 20pt;
+    font-family: Verdana;
+    text-align: justify;
+}
 
-#impar{
-    text-color:red;
+.impar{
+    color:  red;
     font-size: 16pt;
     font-family: Arial;
 }
 
-
-
-
-
-
+.titulo{
+    background-color: #f3d55c;
+    margin: 15px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 270px;
+    padding: 20px;
+}
