@@ -26,7 +26,7 @@ img{
     font-family: Cambria;
  }
 
-.par{
+par{
     color:blue;
     font-size: 20pt;
     font-family: Verdana;
@@ -34,7 +34,7 @@ img{
 
 
 
-.impar{
+impar{
     color:red;
     font-size: 16pt;
     font-family: Arial;}
