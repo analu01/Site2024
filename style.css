@@ -26,6 +26,19 @@ img{
     font-family: Cambria;
  }
 
+.par{
+    color:blue;
+    font-size: 20pt;
+    font-family: Verdana;
+}
+
+
+
+.impar{
+    color:red;
+    font-size: 16pt;
+    font-family: Arial;}
+
 
 
 
