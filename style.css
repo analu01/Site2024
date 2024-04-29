@@ -27,7 +27,7 @@ img{
  }
 
 #par{
-    color:blue;
+    text-color:blue;
     font-size: 20pt;
     font-family: Verdana;
 }
@@ -35,7 +35,7 @@ img{
 
 
 #impar{
-    color:red;
+    text-color:red;
     font-size: 16pt;
     font-family: Arial;
 }
